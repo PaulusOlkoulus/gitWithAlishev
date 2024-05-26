@@ -1,4 +1,4 @@
 hello, world!dfd
 some changes
 line from user1
-another line from user1
+another line from me (new-feature1)
